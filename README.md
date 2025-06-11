@@ -52,7 +52,7 @@ Spring AI MCP(Model Context Protocol)에 대한 한국어 문서화 프로젝트
 
 ## 📄 라이선스
 
-이 프로젝트는 교육 목적으로 작성된 문서입니다.
+이 프로젝트는 [MIT 라이선스](LICENSE) 하에 배포됩니다.
 
 ---
 
